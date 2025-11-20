@@ -1,4 +1,4 @@
-# Simulasi Pra-pemrosesan Data Pinjaman Online - Tahap II
+# Simulasi Pra-pemrosesan Data Pinjaman Online - Tugas II
 
 Nama: HAMDAN AL FATTAH
 
@@ -14,7 +14,7 @@ Tujuan utama tahap ini adalah mengoptimalkan fitur input (X) melalui dua strateg
 Dataset Input: Data yang sudah dibersihkan dan di-scale dari Tahap I.
 
 
-# Alur Kerja (Pipeline) Tahap II: Optimasi Fitur
+# Alur Kerja (Pipeline) Tugas II: Optimasi Fitur
 Menjalankan strategi pipeline ganda untuk memastikan data dioptimalkan untuk berbagai kebutuhan bisnis:
 
 Strategi Pemisahan Utama

@@ -1,0 +1,501 @@
+ID_Pelanggan;Umur;Pendapatan;JumlahPinjaman;LamaBekerja;Pendidikan;StatusPerkawinan;Pekerjaan;TujuanPinjaman;KodeKota;RiwayatPinjaman;StatusPinjaman
+CUST001;56;6350000;9070000;0;S2;Lajang;Wirausaha;Modal Usaha;K72;Baik;Layak
+CUST002;46;10300000;7800000;3;D3;Cerai;PNS;Kesehatan;K23;Baik;Tidak Layak
+CUST003;32;9480000;17230000;13;S1;Cerai;;Pendidikan;K46;Baik;Layak
+CUST004;25;9440000;10980000;0;Tidak Sekolah;Lajang;;Modal Usaha;K72;Baik;Tidak Layak
+CUST005;38;10920000;15160000;13;S1;Lajang;Lainnya;Modal Usaha;K08;Baik;Tidak Layak
+CUST006;56;7060000;2570000;15;S1;Cerai;Freelancer;Renovasi Rumah;K59;Baik;Tidak Layak
+CUST007;36;9050000;11340000;13;D3;Menikah;Karyawan;Renovasi Rumah;K59;Baik;Layak
+CUST008;40;;14450000;19;S1;Lajang;Lainnya;Renovasi Rumah;K13;Baik;Tidak Layak
+CUST009;28;7970000;10410000;2;SMA;Cerai;Freelancer;Kesehatan;K39;Baik;Layak
+CUST010;28;6610000;15330000;2;;Cerai;PNS;Renovasi Rumah;K28;Baik;Layak
+CUST011;41;7290000;7410000;8;SMA;Cerai;Lainnya;Modal Usaha;K61;Baik;Layak
+CUST012;53;8790000;17050000;5;Tidak Sekolah;Cerai;Lainnya;Renovasi Rumah;K16;Baik;Layak
+CUST013;57;34929789;63957347;12;S2;Menikah;Wirausaha;Konsumsi;K02;Baik;Layak
+CUST014;41;13280000;8190000;1;S1;Cerai;PNS;Renovasi Rumah;K17;Baik;Layak
+CUST015;20;3980000;7770000;7;Tidak Sekolah;Lajang;Karyawan;Kesehatan;K30;Baik;Layak
+CUST016;39;3360000;17270000;1;S2;Menikah;Freelancer;Konsumsi;K13;Baik;Tidak Layak
+CUST017;19;10470000;17900000;3;S1;Cerai;Wirausaha;Modal Usaha;K13;Buruk;Layak
+CUST018;41;9370000;7390000;14;SMA;Menikah;Freelancer;Modal Usaha;K43;Baik;Layak
+CUST019;47;8870000;7900000;3;S2;Lajang;Karyawan;Pendidikan;K21;Baik;Layak
+CUST020;55;8890000;8590000;12;S1;Cerai;Karyawan;Konsumsi;K55;Buruk;Layak
+CUST021;19;6960000;3280000;11;SMA;Lajang;Lainnya;Pendidikan;K40;Buruk;Tidak Layak
+CUST022;38;;5410000;12;Tidak Sekolah;Cerai;Karyawan;Konsumsi;K15;Baik;Layak
+CUST023;50;7230000;;13;Tidak Sekolah;Cerai;Freelancer;Konsumsi;K73;Baik;Layak
+CUST024;29;4970000;6160000;19;Tidak Sekolah;Cerai;PNS;Kesehatan;K52;Baik;Layak
+CUST025;39;9930000;9830000;17;Tidak Sekolah;Cerai;PNS;Pendidikan;K74;Baik;Tidak Layak
+CUST026;42;6560000;11170000;5;D3;Cerai;Lainnya;Kesehatan;K53;Baik;Layak
+CUST027;44;4520000;17750000;10;S2;Menikah;Freelancer;Konsumsi;K52;Baik;Tidak Layak
+CUST028;59;6040000;5010000;1;S2;Cerai;Freelancer;Modal Usaha;K30;Baik;Layak
+CUST029;45;8240000;14920000;18;D3;Cerai;Karyawan;Konsumsi;K33;Buruk;Layak
+CUST030;33;5310000;8930000;18;S1;Menikah;Freelancer;Kesehatan;K57;Baik;Layak
+CUST031;32;;9750000;4;S1;Menikah;Wirausaha;Pendidikan;K52;Baik;Tidak Layak
+CUST032;20;7730000;13370000;18;Tidak Sekolah;Menikah;Karyawan;Pendidikan;K09;Baik;Layak
+CUST033;54;7730000;4390000;1;SMA;Menikah;Wirausaha;Kesehatan;K54;Baik;Layak
+CUST034;24;5480000;;9;S1;Menikah;Lainnya;Pendidikan;K01;Baik;Layak
+CUST035;38;;10830000;1;SMA;Menikah;PNS;Renovasi Rumah;K44;Baik;Layak
+CUST036;26;7700000;12460000;10;S2;Cerai;Lainnya;Modal Usaha;K75;Baik;Layak
+CUST037;56;2660000;11450000;17;SMA;Cerai;PNS;Modal Usaha;K09;Baik;Tidak Layak
+CUST038;35;2780000;22280000;14;S2;Lajang;Lainnya;Modal Usaha;K32;Baik;Layak
+CUST039;21;4840000;6810000;8;D3;Cerai;Freelancer;Pendidikan;K15;Buruk;Layak
+CUST040;42;6360000;7350000;18;D3;Cerai;Wirausaha;Pendidikan;K12;Baik;Tidak Layak
+CUST041;31;7930000;6880000;8;Tidak Sekolah;Menikah;PNS;Konsumsi;K78;Baik;Layak
+CUST042;26;11430000;7220000;2;S1;Menikah;Karyawan;Konsumsi;K57;Baik;Layak
+CUST043;43;9570000;6810000;8;Tidak Sekolah;Cerai;Wirausaha;Modal Usaha;K08;Baik;Layak
+CUST044;19;6520000;15950000;13;S2;Lajang;Karyawan;Renovasi Rumah;K72;Baik;Layak
+CUST045;37;6940000;17100000;18;Tidak Sekolah;Menikah;Wirausaha;Konsumsi;K27;Baik;Layak
+CUST046;45;;7150000;6;SMA;Cerai;Wirausaha;Konsumsi;K62;Buruk;Layak
+CUST047;24;6940000;5840000;15;S2;Cerai;Lainnya;Pendidikan;K12;Buruk;Layak
+CUST048;25;6130000;12360000;15;D3;Lajang;PNS;Renovasi Rumah;K65;Baik;Layak
+CUST049;52;7970000;7240000;0;S1;Lajang;PNS;Modal Usaha;K42;Baik;Tidak Layak
+CUST050;31;4520000;13160000;3;S2;Menikah;Wirausaha;Konsumsi;K62;Baik;Tidak Layak
+CUST051;34;8560000;11010000;3;S2;Lajang;;Renovasi Rumah;K11;Baik;Tidak Layak
+CUST052;53;11600000;2420000;6;SMA;Cerai;Freelancer;Renovasi Rumah;K43;Baik;Tidak Layak
+CUST053;57;6670000;17740000;7;S1;Cerai;Karyawan;Modal Usaha;K17;Baik;Layak
+CUST054;21;8210000;18980000;16;D3;Lajang;Karyawan;Renovasi Rumah;K32;Buruk;Tidak Layak
+CUST055;19;9070000;6940000;4;S2;Lajang;Lainnya;Renovasi Rumah;K40;Baik;Layak
+CUST056;23;5800000;8060000;6;S2;Lajang;Wirausaha;Renovasi Rumah;K23;Buruk;Layak
+CUST057;59;7670000;11430000;19;SMA;Lajang;Karyawan;Konsumsi;K56;Baik;Layak
+CUST058;21;7040000;11670000;19;Tidak Sekolah;Menikah;Karyawan;Modal Usaha;K06;Baik;Layak
+CUST059;46;7290000;13290000;3;D3;Lajang;Wirausaha;Renovasi Rumah;K50;Baik;Tidak Layak
+CUST060;35;;20050000;5;S1;Menikah;Lainnya;Renovasi Rumah;K37;Baik;Tidak Layak
+CUST061;43;7070000;9120000;6;S2;Cerai;Karyawan;Konsumsi;K64;Baik;Layak
+CUST062;51;8490000;6010000;17;S2;Lajang;Lainnya;Modal Usaha;K54;Buruk;Tidak Layak
+CUST063;27;11350000;;4;D3;Menikah;PNS;Pendidikan;K72;Baik;Layak
+CUST064;53;9880000;6350000;19;Tidak Sekolah;Lajang;Lainnya;Konsumsi;K49;Buruk;Layak
+CUST065;31;13460000;9830000;2;S2;Cerai;Freelancer;Modal Usaha;K11;Buruk;Layak
+CUST066;48;4700000;18970000;6;D3;Cerai;Freelancer;Renovasi Rumah;K49;Baik;Layak
+CUST067;32;9620000;7410000;13;SMA;Cerai;Lainnya;Modal Usaha;K21;Buruk;Tidak Layak
+CUST068;25;7550000;11120000;6;Tidak Sekolah;Lajang;;Modal Usaha;K66;Buruk;Tidak Layak
+CUST069;31;13570000;9920000;4;S1;Lajang;PNS;Modal Usaha;K63;Baik;Tidak Layak
+CUST070;40;4580000;15940000;4;S2;Menikah;;Pendidikan;K28;Baik;Layak
+CUST071;57;4480000;22630000;1;D3;Cerai;Freelancer;Modal Usaha;K17;Buruk;Tidak Layak
+CUST072;38;5200000;7350000;5;SMA;Lajang;Freelancer;Pendidikan;K06;Baik;Layak
+CUST073;33;630000;7550000;14;S1;Cerai;Lainnya;Renovasi Rumah;K19;Baik;Tidak Layak
+CUST074;35;5420000;15220000;9;D3;Cerai;PNS;Pendidikan;K56;Buruk;Layak
+CUST075;41;4720000;13410000;6;D3;Menikah;Wirausaha;Renovasi Rumah;K28;Baik;Layak
+CUST076;43;7450000;19230000;4;S1;Menikah;Lainnya;Renovasi Rumah;K66;Baik;Layak
+CUST077;42;8030000;12920000;0;SMA;Menikah;Lainnya;Pendidikan;K38;Baik;Layak
+CUST078;58;12630000;8200000;12;SMA;Menikah;PNS;Konsumsi;K37;Baik;Layak
+CUST079;46;9850000;12950000;17;Tidak Sekolah;Cerai;Wirausaha;Kesehatan;K68;Baik;Layak
+CUST080;32;5270000;15540000;12;S2;Menikah;PNS;Modal Usaha;K49;Buruk;Layak
+CUST081;18;4300000;14100000;17;S1;Menikah;Wirausaha;Kesehatan;K43;Baik;Layak
+CUST082;42;8480000;12540000;4;S1;Menikah;;Modal Usaha;K36;Baik;Layak
+CUST083;24;3040000;;12;S1;Menikah;Lainnya;Modal Usaha;K58;Baik;Layak
+CUST084;26;12490000;15850000;3;SMA;Cerai;Lainnya;Renovasi Rumah;K13;Baik;Layak
+CUST085;41;10540000;16910000;16;S2;Menikah;Karyawan;Modal Usaha;K52;Baik;Layak
+CUST086;18;5590000;13240000;2;;Cerai;Freelancer;Modal Usaha;K58;Buruk;Layak
+CUST087;25;1860000;9160000;16;D3;Lajang;PNS;Pendidikan;K32;Buruk;Tidak Layak
+CUST088;41;11060000;10730000;10;D3;Cerai;Karyawan;Kesehatan;K60;Baik;Tidak Layak
+CUST089;28;6660000;16030000;19;S1;Cerai;Freelancer;Pendidikan;K58;Baik;Layak
+CUST090;34;10710000;5920000;3;S2;Menikah;PNS;Modal Usaha;K56;Buruk;Tidak Layak
+CUST091;25;2220000;11840000;1;SMA;Lajang;Wirausaha;Renovasi Rumah;K28;Buruk;Tidak Layak
+CUST092;52;5200000;8030000;19;S2;Lajang;Freelancer;Pendidikan;K01;Baik;Tidak Layak
+CUST093;52;7020000;10140000;15;S2;Lajang;Lainnya;Pendidikan;K42;Baik;Layak
+CUST094;50;7140000;16390000;17;SMA;Lajang;Karyawan;Konsumsi;K48;Baik;Layak
+CUST095;22;5650000;10960000;7;S1;Cerai;Freelancer;Modal Usaha;K40;Buruk;Layak
+CUST096;59;8870000;;2;S2;Lajang;Freelancer;Renovasi Rumah;K63;Baik;Layak
+CUST097;56;3800000;3200000;8;D3;Cerai;Lainnya;Pendidikan;K76;Baik;Layak
+CUST098;58;6570000;13730000;19;SMA;Cerai;PNS;Pendidikan;K72;Baik;Layak
+CUST099;45;7360000;13230000;5;Tidak Sekolah;Cerai;Wirausaha;Renovasi Rumah;K04;Buruk;Tidak Layak
+CUST100;24;8540000;20820000;9;S1;Lajang;Lainnya;Modal Usaha;K38;Baik;Tidak Layak
+CUST101;26;9130000;8460000;9;SMA;Menikah;Wirausaha;Konsumsi;K27;Baik;Layak
+CUST102;25;3630000;11100000;12;Tidak Sekolah;Menikah;PNS;Pendidikan;K09;Baik;Layak
+CUST103;29;2400000;11250000;16;Tidak Sekolah;Lajang;Freelancer;Konsumsi;K16;Baik;Layak
+CUST104;51;10830000;17890000;8;S2;Menikah;Wirausaha;Kesehatan;K56;Baik;Tidak Layak
+CUST105;50;8000000;9520000;16;S2;Menikah;Karyawan;Modal Usaha;K76;Buruk;Layak
+CUST106;40;4750000;11400000;8;S2;Cerai;Karyawan;Kesehatan;K31;Buruk;Layak
+CUST107;41;11650000;13040000;8;SMA;Cerai;Lainnya;Kesehatan;K14;Buruk;Layak
+CUST108;54;7350000;10930000;0;;Lajang;PNS;Kesehatan;K25;Buruk;Layak
+CUST109;52;10540000;7770000;1;S1;Lajang;Lainnya;Modal Usaha;K34;Baik;Layak
+CUST110;57;7200000;10970000;15;S2;Menikah;Lainnya;Modal Usaha;K67;Buruk;Layak
+CUST111;39;13180000;15370000;0;Tidak Sekolah;Cerai;Lainnya;Renovasi Rumah;K24;Baik;Tidak Layak
+CUST112;44;12270000;;9;D3;Lajang;Karyawan;Konsumsi;K73;Baik;Tidak Layak
+CUST113;52;6250000;10660000;17;S1;Lajang;Karyawan;Konsumsi;K26;Buruk;Tidak Layak
+CUST114;18;9910000;6500000;7;SMA;Lajang;Lainnya;Renovasi Rumah;K20;Baik;Tidak Layak
+CUST115;52;8940000;15980000;10;S1;Lajang;Karyawan;Renovasi Rumah;K64;Baik;Layak
+CUST116;54;11110000;2380000;1;S1;Lajang;PNS;Kesehatan;K10;Baik;Layak
+CUST117;31;4110000;7210000;7;S1;Lajang;;Renovasi Rumah;K67;Baik;Tidak Layak
+CUST118;20;9060000;11890000;7;S1;Menikah;Karyawan;Pendidikan;K24;Baik;Tidak Layak
+CUST119;18;10180000;17830000;16;D3;Cerai;Wirausaha;Konsumsi;K05;Buruk;Layak
+CUST120;22;1720000;9670000;14;S2;Cerai;Lainnya;Renovasi Rumah;K67;Buruk;Layak
+CUST121;43;3450000;7220000;16;Tidak Sekolah;Lajang;Lainnya;Pendidikan;K58;Baik;Layak
+CUST122;31;880000;19410000;12;S1;Cerai;PNS;Pendidikan;K27;Baik;Layak
+CUST123;56;6190000;2760000;18;S1;Cerai;Freelancer;Pendidikan;K15;Baik;Layak
+CUST124;44;9150000;;4;;Cerai;Freelancer;Pendidikan;K35;Buruk;Layak
+CUST125;26;11510000;12200000;11;S2;Lajang;;Kesehatan;K76;Baik;Layak
+CUST126;32;7220000;7490000;0;SMA;Lajang;PNS;Pendidikan;K53;Baik;Layak
+CUST127;32;11890000;4890000;4;SMA;Cerai;PNS;Kesehatan;K44;Baik;Tidak Layak
+CUST128;43;2860000;13540000;7;D3;Cerai;Freelancer;Kesehatan;K26;Baik;Layak
+CUST129;59;1890000;11220000;12;SMA;Lajang;PNS;Pendidikan;K47;Baik;Layak
+CUST130;30;6830000;7180000;7;S1;Menikah;Karyawan;Konsumsi;K34;Buruk;Layak
+CUST131;49;8150000;3600000;10;S1;Cerai;Lainnya;Pendidikan;K50;Baik;Tidak Layak
+CUST132;56;6900000;14360000;0;;Menikah;Lainnya;Pendidikan;K12;Baik;Layak
+CUST133;49;800000;13250000;12;D3;Cerai;Wirausaha;Pendidikan;K04;Baik;Tidak Layak
+CUST134;21;6730000;9500000;18;S1;Menikah;;Konsumsi;K48;Baik;Layak
+CUST135;47;3090000;19230000;2;SMA;Menikah;Lainnya;Modal Usaha;K55;Baik;Tidak Layak
+CUST136;54;34929789;63957347;16;S2;Menikah;Karyawan;Modal Usaha;K01;Baik;Tidak Layak
+CUST137;40;8100000;2370000;4;S2;Lajang;Freelancer;Kesehatan;K66;Baik;Layak
+CUST138;56;4180000;6540000;19;Tidak Sekolah;Menikah;Freelancer;Kesehatan;K30;Baik;Layak
+CUST139;32;5460000;9770000;7;SMA;Menikah;Karyawan;Konsumsi;K03;Buruk;Layak
+CUST140;46;3820000;11220000;13;S1;Menikah;Freelancer;Renovasi Rumah;K21;Baik;Layak
+CUST141;53;6810000;8790000;3;S2;Cerai;PNS;Modal Usaha;K49;Buruk;Layak
+CUST142;30;9870000;11760000;10;SMA;Menikah;Lainnya;Kesehatan;K62;Baik;Layak
+CUST143;49;4040000;;19;S2;Cerai;Lainnya;Modal Usaha;K38;Baik;Layak
+CUST144;24;8510000;17220000;14;S1;Menikah;;Konsumsi;K15;Baik;Layak
+CUST145;39;5410000;9590000;18;S2;Menikah;Freelancer;Konsumsi;K52;Baik;Layak
+CUST146;45;4620000;15590000;6;Tidak Sekolah;Lajang;Wirausaha;Renovasi Rumah;K79;Baik;Layak
+CUST147;19;6680000;11710000;18;Tidak Sekolah;Cerai;Wirausaha;Renovasi Rumah;K46;Baik;Layak
+CUST148;59;3890000;12280000;18;S2;Menikah;;Konsumsi;K25;Baik;Layak
+CUST149;23;5340000;12850000;10;SMA;Cerai;Wirausaha;Kesehatan;K21;Baik;Layak
+CUST150;45;3410000;12240000;4;SMA;Cerai;Karyawan;Modal Usaha;K05;Baik;Layak
+CUST151;45;12890000;13210000;4;SMA;Lajang;Karyawan;Pendidikan;K70;Baik;Tidak Layak
+CUST152;37;7110000;16650000;7;S2;Lajang;Freelancer;Renovasi Rumah;K47;Baik;Layak
+CUST153;47;;10980000;9;SMA;Lajang;Wirausaha;Pendidikan;K68;Baik;Layak
+CUST154;28;7640000;13550000;5;S1;Lajang;;Kesehatan;K18;Baik;Layak
+CUST155;45;6660000;9550000;14;Tidak Sekolah;Lajang;Karyawan;Renovasi Rumah;K21;Baik;Tidak Layak
+CUST156;42;6340000;17200000;15;S1;Lajang;PNS;Pendidikan;K23;Baik;Tidak Layak
+CUST157;56;8840000;6620000;16;SMA;Lajang;PNS;Kesehatan;K64;Baik;Tidak Layak
+CUST158;50;9270000;19000000;7;S1;Lajang;Karyawan;Modal Usaha;K67;Buruk;Layak
+CUST159;18;5410000;9800000;7;SMA;Menikah;;Kesehatan;K40;Buruk;Layak
+CUST160;44;5270000;2850000;8;S2;Cerai;;Renovasi Rumah;K10;Baik;Layak
+CUST161;30;6170000;10640000;1;S1;Lajang;Lainnya;Konsumsi;K52;Baik;Layak
+CUST162;58;90000;6590000;14;S2;Lajang;Karyawan;Modal Usaha;K72;Baik;Tidak Layak
+CUST163;20;2450000;14200000;17;S2;Cerai;Karyawan;Pendidikan;K75;Baik;Layak
+CUST164;56;11100000;6740000;2;;Menikah;Karyawan;Renovasi Rumah;K61;Buruk;Tidak Layak
+CUST165;23;11930000;7770000;16;SMA;Cerai;Freelancer;Konsumsi;K64;Baik;Layak
+CUST166;25;6250000;550000;3;Tidak Sekolah;Cerai;PNS;Kesehatan;K05;Baik;Tidak Layak
+CUST167;44;8730000;7740000;3;SMA;Lajang;;Konsumsi;K53;Baik;Layak
+CUST168;26;7930000;-2120000;13;Tidak Sekolah;Cerai;Karyawan;Renovasi Rumah;K55;Baik;Layak
+CUST169;54;16240000;2080000;8;SMA;Cerai;Wirausaha;Renovasi Rumah;K37;Baik;Layak
+CUST170;50;10360000;13800000;8;S2;Lajang;Freelancer;Konsumsi;K56;Baik;Layak
+CUST171;59;6620000;13930000;17;S1;Lajang;Karyawan;Kesehatan;K59;Buruk;Layak
+CUST172;41;4130000;12130000;9;S1;Lajang;Wirausaha;Konsumsi;K69;Baik;Tidak Layak
+CUST173;32;2180000;5170000;3;D3;Lajang;Lainnya;Renovasi Rumah;K73;Baik;Layak
+CUST174;49;7610000;9760000;11;Tidak Sekolah;Cerai;Karyawan;Renovasi Rumah;K59;Buruk;Layak
+CUST175;49;4730000;;7;Tidak Sekolah;Cerai;Karyawan;Pendidikan;K02;Baik;Layak
+CUST176;41;;4210000;1;Tidak Sekolah;Menikah;Wirausaha;Pendidikan;K65;Buruk;Layak
+CUST177;58;5060000;17520000;12;S2;Menikah;Freelancer;Modal Usaha;K60;Buruk;Tidak Layak
+CUST178;29;3760000;14390000;15;Tidak Sekolah;Cerai;Karyawan;Renovasi Rumah;K51;Baik;Tidak Layak
+CUST179;56;;8900000;1;S1;Menikah;Lainnya;Pendidikan;K30;Baik;Tidak Layak
+CUST180;19;9640000;10130000;10;S2;Cerai;Karyawan;Konsumsi;K11;Baik;Tidak Layak
+CUST181;20;6980000;11040000;9;SMA;Menikah;Lainnya;Kesehatan;K76;Buruk;Tidak Layak
+CUST182;54;11440000;-210000;14;;Lajang;PNS;Konsumsi;K39;Baik;Layak
+CUST183;34;7230000;8760000;16;Tidak Sekolah;Menikah;PNS;Kesehatan;K77;Baik;Tidak Layak
+CUST184;19;4420000;6590000;7;SMA;Lajang;Lainnya;Pendidikan;K72;Buruk;Layak
+CUST185;19;11570000;4990000;17;Tidak Sekolah;Lajang;Freelancer;Modal Usaha;K63;Buruk;Layak
+CUST186;45;8620000;8590000;8;SMA;Lajang;Karyawan;Konsumsi;K64;Buruk;Layak
+CUST187;40;3890000;18990000;7;S2;Lajang;Karyawan;Konsumsi;K61;Baik;Tidak Layak
+CUST188;54;6430000;13200000;13;S1;Menikah;PNS;Konsumsi;K54;Buruk;Tidak Layak
+CUST189;49;4370000;7140000;17;SMA;Cerai;Lainnya;Kesehatan;K73;Baik;Layak
+CUST190;50;2850000;;19;D3;Lajang;Karyawan;Pendidikan;K58;Buruk;Tidak Layak
+CUST191;18;9780000;17000000;19;SMA;Menikah;Karyawan;Konsumsi;K56;Baik;Tidak Layak
+CUST192;36;12730000;14620000;11;Tidak Sekolah;Lajang;Freelancer;Konsumsi;K34;Baik;Layak
+CUST193;19;2800000;10300000;18;;Menikah;Wirausaha;Modal Usaha;K31;Baik;Layak
+CUST194;43;8690000;6770000;13;S2;Menikah;PNS;Modal Usaha;K52;Baik;Tidak Layak
+CUST195;49;5050000;13490000;16;SMA;Menikah;PNS;Pendidikan;K76;Baik;Layak
+CUST196;23;5540000;11970000;2;S1;Cerai;Wirausaha;Pendidikan;K01;Baik;Layak
+CUST197;49;5220000;14480000;6;D3;Menikah;Karyawan;Renovasi Rumah;K55;Baik;Layak
+CUST198;21;4410000;13180000;16;S2;Menikah;Freelancer;Modal Usaha;K22;Baik;Layak
+CUST199;28;7150000;15250000;11;Tidak Sekolah;Cerai;Freelancer;Renovasi Rumah;K40;Buruk;Tidak Layak
+CUST200;34;4510000;7320000;8;Tidak Sekolah;Cerai;PNS;Kesehatan;K01;Baik;Layak
+CUST201;55;7810000;16590000;14;S1;Menikah;Freelancer;Renovasi Rumah;K65;Baik;Tidak Layak
+CUST202;41;6850000;10990000;17;S2;Cerai;Wirausaha;Konsumsi;K63;Baik;Tidak Layak
+CUST203;22;6280000;20380000;12;SMA;Lajang;Karyawan;Renovasi Rumah;K54;Baik;Tidak Layak
+CUST204;51;4280000;6550000;7;Tidak Sekolah;Lajang;Wirausaha;Pendidikan;K42;Baik;Layak
+CUST205;23;5270000;18680000;13;S1;Cerai;Lainnya;Kesehatan;K21;Baik;Layak
+CUST206;39;9270000;10990000;7;S2;Cerai;PNS;Konsumsi;K79;Baik;Layak
+CUST207;28;8500000;6740000;13;S2;Menikah;Freelancer;Renovasi Rumah;K22;Buruk;Layak
+CUST208;33;4070000;7580000;6;S2;Cerai;Lainnya;Kesehatan;K38;Buruk;Tidak Layak
+CUST209;50;7300000;8400000;11;S2;Menikah;Freelancer;Kesehatan;K08;Baik;Layak
+CUST210;26;34929789;63957347;10;S2;Lajang;Karyawan;Konsumsi;K62;Buruk;Layak
+CUST211;23;1990000;12610000;10;Tidak Sekolah;Cerai;Karyawan;Renovasi Rumah;K47;Baik;Layak
+CUST212;33;8630000;7130000;12;S1;Menikah;Karyawan;Kesehatan;K17;Baik;Tidak Layak
+CUST213;46;5010000;9880000;17;S2;Menikah;Freelancer;Kesehatan;K17;Baik;Tidak Layak
+CUST214;20;;20710000;1;D3;Lajang;Lainnya;Modal Usaha;K13;Baik;Layak
+CUST215;37;4710000;18640000;14;D3;Cerai;Karyawan;Kesehatan;K17;Baik;Tidak Layak
+CUST216;53;1590000;12180000;19;S1;Lajang;Lainnya;Modal Usaha;K38;Baik;Layak
+CUST217;36;2120000;10190000;17;SMA;Menikah;Freelancer;Renovasi Rumah;K78;Baik;Layak
+CUST218;43;7140000;10600000;14;SMA;Menikah;Lainnya;Renovasi Rumah;K45;Baik;Tidak Layak
+CUST219;20;7780000;13070000;18;SMA;Cerai;Freelancer;Renovasi Rumah;K06;Baik;Layak
+CUST220;36;4290000;4890000;11;D3;Menikah;Freelancer;Pendidikan;K35;Baik;Tidak Layak
+CUST221;37;8920000;8710000;12;SMA;Cerai;PNS;Renovasi Rumah;K14;Baik;Layak
+CUST222;49;2020000;1660000;10;Tidak Sekolah;Lajang;Freelancer;Kesehatan;K72;Baik;Layak
+CUST223;24;6800000;12000000;4;S2;Cerai;Freelancer;Konsumsi;K61;Baik;Tidak Layak
+CUST224;58;3370000;13240000;0;;Cerai;Wirausaha;Modal Usaha;K15;Baik;Layak
+CUST225;50;;7580000;2;S1;Menikah;Karyawan;Pendidikan;K54;Buruk;Tidak Layak
+CUST226;57;7140000;17870000;18;S1;Menikah;PNS;Renovasi Rumah;K27;Baik;Tidak Layak
+CUST227;56;;3870000;6;S2;Cerai;PNS;Renovasi Rumah;K13;Baik;Layak
+CUST228;35;5850000;2680000;11;D3;Menikah;PNS;Konsumsi;K31;Baik;Layak
+CUST229;57;10020000;11120000;14;SMA;Menikah;Wirausaha;Konsumsi;K35;Baik;Layak
+CUST230;18;5270000;15240000;4;SMA;Menikah;Freelancer;Pendidikan;K60;Baik;Layak
+CUST231;28;9510000;18420000;14;Tidak Sekolah;Cerai;Karyawan;Modal Usaha;K06;Baik;Layak
+CUST232;45;3610000;7710000;7;;Menikah;Lainnya;Renovasi Rumah;K69;Baik;Layak
+CUST233;42;8590000;15390000;9;SMA;Cerai;Freelancer;Pendidikan;K58;Baik;Layak
+CUST234;40;11320000;9810000;15;S1;Menikah;Wirausaha;Kesehatan;K49;Baik;Layak
+CUST235;48;-410000;9140000;7;S1;Lajang;Freelancer;Kesehatan;K23;Baik;Tidak Layak
+CUST236;47;4610000;14420000;0;Tidak Sekolah;Menikah;Freelancer;Pendidikan;K34;Baik;Tidak Layak
+CUST237;59;8730000;13260000;11;;Menikah;Wirausaha;Renovasi Rumah;K26;Baik;Tidak Layak
+CUST238;52;;2120000;4;SMA;Cerai;PNS;Pendidikan;K47;Baik;Layak
+CUST239;24;8110000;17380000;2;Tidak Sekolah;Cerai;PNS;Renovasi Rumah;K05;Baik;Tidak Layak
+CUST240;33;5190000;;0;Tidak Sekolah;Menikah;Karyawan;Konsumsi;K20;Baik;Layak
+CUST241;43;7260000;6870000;3;SMA;Lajang;Karyawan;Pendidikan;K06;Baik;Tidak Layak
+CUST242;19;6530000;11980000;7;SMA;Menikah;PNS;Renovasi Rumah;K70;Baik;Tidak Layak
+CUST243;18;34929789;63957347;2;S1;Menikah;Lainnya;Pendidikan;K59;Baik;Layak
+CUST244;29;7760000;11300000;9;S2;Lajang;Freelancer;Pendidikan;K64;Buruk;Layak
+CUST245;22;8010000;7250000;1;S2;Cerai;Lainnya;Renovasi Rumah;K18;Baik;Tidak Layak
+CUST246;54;5760000;6640000;10;SMA;Menikah;Freelancer;Renovasi Rumah;K04;Buruk;Tidak Layak
+CUST247;49;5540000;9870000;9;D3;Cerai;PNS;Modal Usaha;K17;Baik;Tidak Layak
+CUST248;26;34929789;63957347;13;Tidak Sekolah;Cerai;Karyawan;Pendidikan;K14;Baik;Layak
+CUST249;58;8180000;12720000;6;Tidak Sekolah;Lajang;Karyawan;Kesehatan;K78;Baik;Layak
+CUST250;52;5740000;8150000;1;SMA;Lajang;Lainnya;Pendidikan;K13;Baik;Layak
+CUST251;36;7870000;13860000;8;D3;Cerai;Karyawan;Pendidikan;K07;Baik;Tidak Layak
+CUST252;33;13230000;-4240000;15;S1;Menikah;;Renovasi Rumah;K44;Baik;Layak
+CUST253;20;9610000;15740000;12;SMA;Cerai;Lainnya;Pendidikan;K15;Baik;Tidak Layak
+CUST254;37;6020000;1300000;8;;Menikah;Freelancer;Pendidikan;K19;Baik;Layak
+CUST255;41;10600000;8190000;19;Tidak Sekolah;Menikah;Karyawan;Kesehatan;K63;Baik;Layak
+CUST256;50;5780000;4400000;3;SMA;Lajang;Wirausaha;Renovasi Rumah;K35;Buruk;Layak
+CUST257;41;890000;3530000;9;SMA;Menikah;Karyawan;Pendidikan;K35;Baik;Tidak Layak
+CUST258;28;3980000;15800000;11;SMA;Menikah;Freelancer;Konsumsi;K19;Baik;Layak
+CUST259;25;1390000;7660000;16;Tidak Sekolah;Cerai;Lainnya;Modal Usaha;K20;Baik;Layak
+CUST260;53;5950000;11730000;13;S1;Lajang;Freelancer;Kesehatan;K35;Baik;Layak
+CUST261;55;7060000;9770000;13;S1;Menikah;Wirausaha;Pendidikan;K32;Baik;Layak
+CUST262;57;12030000;12390000;1;SMA;Menikah;PNS;Konsumsi;K48;Buruk;Layak
+CUST263;37;7980000;10380000;19;;Lajang;Karyawan;Pendidikan;K44;Baik;Tidak Layak
+CUST264;52;;3590000;10;S1;Cerai;Lainnya;Pendidikan;K24;Baik;Layak
+CUST265;42;9490000;;15;S1;Lajang;PNS;Renovasi Rumah;K61;Baik;Layak
+CUST266;52;370000;7530000;18;S1;Lajang;Freelancer;Renovasi Rumah;K17;Buruk;Tidak Layak
+CUST267;42;7710000;2220000;5;Tidak Sekolah;Menikah;Lainnya;Renovasi Rumah;K71;Baik;Tidak Layak
+CUST268;46;9310000;7860000;18;Tidak Sekolah;Menikah;PNS;Konsumsi;K50;Baik;Layak
+CUST269;35;2560000;17500000;4;SMA;Cerai;Lainnya;Pendidikan;K65;Buruk;Layak
+CUST270;35;10430000;14250000;3;S2;Menikah;Wirausaha;Modal Usaha;K32;Baik;Tidak Layak
+CUST271;19;8020000;8260000;14;S1;Menikah;Wirausaha;Kesehatan;K36;Buruk;Tidak Layak
+CUST272;52;5750000;;3;S2;Lajang;Karyawan;Renovasi Rumah;K13;Baik;Tidak Layak
+CUST273;33;8900000;8390000;19;Tidak Sekolah;Menikah;Karyawan;Renovasi Rumah;K70;Baik;Layak
+CUST274;58;13810000;20380000;9;;Cerai;Wirausaha;Pendidikan;K58;Baik;Layak
+CUST275;53;7550000;11910000;2;Tidak Sekolah;Lajang;Lainnya;Pendidikan;K14;Baik;Tidak Layak
+CUST276;50;7740000;12150000;4;S2;Cerai;Wirausaha;Konsumsi;K37;Buruk;Layak
+CUST277;21;5620000;15150000;5;Tidak Sekolah;Lajang;Karyawan;Konsumsi;K79;Baik;Layak
+CUST278;50;4450000;11190000;7;SMA;Menikah;;Renovasi Rumah;K68;Baik;Tidak Layak
+CUST279;31;9490000;8700000;6;Tidak Sekolah;Lajang;Wirausaha;Pendidikan;K40;Baik;Layak
+CUST280;38;4430000;9020000;9;D3;Lajang;Lainnya;Modal Usaha;K59;Baik;Layak
+CUST281;37;7210000;9640000;5;S2;Menikah;PNS;Kesehatan;K16;Baik;Layak
+CUST282;25;5570000;9810000;13;D3;Menikah;Karyawan;Pendidikan;K62;Baik;Layak
+CUST283;24;8440000;13640000;3;Tidak Sekolah;Cerai;Lainnya;Pendidikan;K04;Baik;Layak
+CUST284;20;8000000;10260000;12;SMA;Cerai;Wirausaha;Konsumsi;K45;Baik;Tidak Layak
+CUST285;34;10110000;13660000;19;S1;Menikah;Wirausaha;Kesehatan;K28;Baik;Layak
+CUST286;50;5470000;9600000;16;Tidak Sekolah;Menikah;PNS;Renovasi Rumah;K66;Baik;Layak
+CUST287;29;6190000;10390000;6;SMA;Menikah;Karyawan;Pendidikan;K31;Baik;Tidak Layak
+CUST288;39;;10000;3;S2;Lajang;Karyawan;Renovasi Rumah;K03;Buruk;Layak
+CUST289;39;5670000;14580000;13;D3;Lajang;Freelancer;Pendidikan;K08;Buruk;Layak
+CUST290;47;8130000;11730000;2;D3;Lajang;Karyawan;Renovasi Rumah;K24;Baik;Tidak Layak
+CUST291;55;9270000;14990000;4;D3;Menikah;PNS;Kesehatan;K15;Baik;Tidak Layak
+CUST292;55;4230000;-4480000;15;S2;Cerai;Freelancer;Konsumsi;K43;Baik;Layak
+CUST293;25;9610000;20440000;19;SMA;Menikah;Freelancer;Kesehatan;K31;Baik;Tidak Layak
+CUST294;44;11070000;9300000;3;S2;Lajang;Wirausaha;Modal Usaha;K73;Baik;Layak
+CUST295;44;8240000;15540000;1;D3;Lajang;Wirausaha;Konsumsi;K45;Baik;Tidak Layak
+CUST296;51;12630000;4800000;17;Tidak Sekolah;Menikah;Karyawan;Kesehatan;K66;Baik;Layak
+CUST297;38;;13060000;18;S1;Menikah;Freelancer;Modal Usaha;K08;Buruk;Tidak Layak
+CUST298;47;3270000;4730000;18;S2;Lajang;Wirausaha;Pendidikan;K71;Baik;Layak
+CUST299;50;1660000;6880000;16;S2;Lajang;PNS;Pendidikan;K57;Baik;Layak
+CUST300;45;11490000;19570000;13;SMA;Lajang;Wirausaha;Renovasi Rumah;K30;Baik;Layak
+CUST301;50;8960000;9050000;18;SMA;Menikah;Wirausaha;Konsumsi;K74;Baik;Layak
+CUST302;22;6830000;11090000;12;S2;Lajang;Freelancer;Pendidikan;K18;Buruk;Tidak Layak
+CUST303;36;7840000;14350000;11;D3;Lajang;Freelancer;Konsumsi;K69;Baik;Layak
+CUST304;21;3620000;12480000;5;S1;Cerai;Lainnya;Pendidikan;K39;Baik;Layak
+CUST305;52;14340000;10750000;3;SMA;Menikah;PNS;Renovasi Rumah;K60;Baik;Layak
+CUST306;34;7390000;11820000;18;D3;Cerai;Freelancer;Kesehatan;K43;Baik;Layak
+CUST307;45;7330000;22020000;15;Tidak Sekolah;Cerai;Karyawan;Renovasi Rumah;K45;Baik;Tidak Layak
+CUST308;47;9180000;9710000;12;SMA;Lajang;;Modal Usaha;K23;Buruk;Tidak Layak
+CUST309;46;8440000;11010000;3;D3;Menikah;PNS;Pendidikan;K69;Buruk;Layak
+CUST310;23;7670000;15250000;16;D3;Lajang;Freelancer;Modal Usaha;K06;Baik;Tidak Layak
+CUST311;52;4630000;15530000;0;S1;Menikah;PNS;Modal Usaha;K56;Baik;Tidak Layak
+CUST312;58;8410000;15940000;17;S1;Cerai;Freelancer;Konsumsi;K04;Buruk;Layak
+CUST313;54;12650000;13190000;19;Tidak Sekolah;Menikah;Wirausaha;Pendidikan;K23;Baik;Layak
+CUST314;41;;4280000;16;D3;Lajang;Lainnya;Modal Usaha;K06;Baik;Tidak Layak
+CUST315;46;11780000;18170000;14;D3;Lajang;Wirausaha;Kesehatan;K32;Baik;Layak
+CUST316;48;5470000;4270000;10;S1;Lajang;Freelancer;Modal Usaha;K18;Baik;Tidak Layak
+CUST317;52;4030000;11510000;12;;Menikah;Freelancer;Kesehatan;K15;Baik;Layak
+CUST318;50;6620000;6230000;0;SMA;Cerai;Wirausaha;Konsumsi;K40;Baik;Layak
+CUST319;38;7170000;9680000;16;S2;Cerai;Karyawan;Modal Usaha;K73;Baik;Layak
+CUST320;49;10280000;11640000;5;S1;Menikah;Karyawan;Renovasi Rumah;K74;Baik;Layak
+CUST321;40;1920000;11610000;3;S2;Lajang;Karyawan;Konsumsi;K06;Baik;Tidak Layak
+CUST322;50;11590000;12110000;19;S1;Cerai;Freelancer;Kesehatan;K63;Buruk;Layak
+CUST323;20;6530000;18070000;15;Tidak Sekolah;Lajang;PNS;Konsumsi;K67;Buruk;Layak
+CUST324;35;5720000;12270000;14;D3;Menikah;Freelancer;Modal Usaha;K11;Buruk;Tidak Layak
+CUST325;42;3960000;8780000;14;Tidak Sekolah;Lajang;;Pendidikan;K43;Baik;Layak
+CUST326;59;2040000;14820000;5;S1;Cerai;Wirausaha;Pendidikan;K17;Baik;Layak
+CUST327;48;9470000;15950000;14;D3;Cerai;Lainnya;Kesehatan;K04;Baik;Tidak Layak
+CUST328;20;7220000;3860000;13;SMA;Lajang;PNS;Kesehatan;K63;Baik;Tidak Layak
+CUST329;57;3130000;12990000;10;SMA;Menikah;Karyawan;Pendidikan;K68;Baik;Layak
+CUST330;41;3110000;13510000;6;S2;Lajang;Freelancer;Kesehatan;K41;Baik;Layak
+CUST331;49;5990000;8510000;8;S1;Menikah;Wirausaha;Konsumsi;K05;Baik;Layak
+CUST332;39;12010000;16880000;15;S1;Lajang;Karyawan;Renovasi Rumah;K32;Buruk;Layak
+CUST333;40;6220000;;4;SMA;Cerai;Wirausaha;Renovasi Rumah;K70;Baik;Layak
+CUST334;19;2490000;10630000;19;Tidak Sekolah;Menikah;Lainnya;Konsumsi;K35;Baik;Layak
+CUST335;44;6260000;9130000;9;D3;Menikah;Freelancer;Renovasi Rumah;K22;Baik;Layak
+CUST336;59;6180000;10080000;17;;Menikah;Freelancer;Modal Usaha;K65;Buruk;Layak
+CUST337;19;-1090000;4520000;2;Tidak Sekolah;Cerai;Lainnya;Konsumsi;K22;Baik;Layak
+CUST338;43;6840000;2800000;12;SMA;Lajang;Freelancer;Kesehatan;K11;Buruk;Layak
+CUST339;34;6310000;17970000;10;SMA;Cerai;PNS;Konsumsi;K77;Buruk;Tidak Layak
+CUST340;57;9090000;5770000;16;SMA;Menikah;Wirausaha;Pendidikan;K03;Baik;Tidak Layak
+CUST341;50;12550000;5040000;12;S2;Lajang;Karyawan;Kesehatan;K09;Baik;Layak
+CUST342;26;10380000;-770000;5;Tidak Sekolah;Cerai;Lainnya;Pendidikan;K60;Baik;Layak
+CUST343;56;6190000;6810000;16;S1;Menikah;PNS;Kesehatan;K76;Baik;Layak
+CUST344;46;3680000;;12;D3;Menikah;Karyawan;Renovasi Rumah;K14;Baik;Layak
+CUST345;59;14720000;;18;S2;Cerai;Karyawan;Konsumsi;K18;Baik;Layak
+CUST346;43;7180000;15050000;18;S1;Cerai;Lainnya;Modal Usaha;K73;Buruk;Layak
+CUST347;52;7040000;6560000;9;Tidak Sekolah;Cerai;PNS;Kesehatan;K23;Buruk;Layak
+CUST348;42;6930000;21260000;2;SMA;Menikah;Karyawan;Kesehatan;K74;Baik;Tidak Layak
+CUST349;41;7590000;14910000;13;Tidak Sekolah;Cerai;Karyawan;Pendidikan;K47;Baik;Layak
+CUST350;30;6570000;8380000;18;D3;Menikah;PNS;Renovasi Rumah;K69;Baik;Layak
+CUST351;24;5280000;-2500000;4;S2;Cerai;Freelancer;Pendidikan;K47;Baik;Tidak Layak
+CUST352;53;5360000;21450000;4;S2;Menikah;Karyawan;Pendidikan;K30;Baik;Layak
+CUST353;37;6900000;3050000;19;D3;Menikah;Wirausaha;Renovasi Rumah;K25;Baik;Layak
+CUST354;18;5370000;1770000;16;S1;Lajang;PNS;Modal Usaha;K28;Baik;Layak
+CUST355;25;4860000;15110000;9;S1;Cerai;Karyawan;Pendidikan;K25;Baik;Layak
+CUST356;33;7320000;22200000;4;S2;Cerai;Lainnya;Pendidikan;K74;Buruk;Tidak Layak
+CUST357;31;6240000;16920000;3;S2;Menikah;Wirausaha;Kesehatan;K78;Baik;Layak
+CUST358;29;11510000;12820000;5;;Menikah;Karyawan;Renovasi Rumah;K58;Baik;Layak
+CUST359;40;-950000;12970000;3;S1;Menikah;Wirausaha;Konsumsi;K41;Baik;Layak
+CUST360;32;10270000;14270000;6;D3;Lajang;Wirausaha;Modal Usaha;K25;Baik;Layak
+CUST361;45;10740000;13790000;6;S1;Lajang;Freelancer;Modal Usaha;K78;Baik;Tidak Layak
+CUST362;51;780000;11410000;17;SMA;Menikah;Wirausaha;Renovasi Rumah;K48;Baik;Tidak Layak
+CUST363;19;5970000;10520000;2;S2;Cerai;Freelancer;Kesehatan;K10;Baik;Layak
+CUST364;49;;9690000;0;S2;Cerai;PNS;Kesehatan;K75;Baik;Layak
+CUST365;40;2780000;6230000;3;SMA;Lajang;Freelancer;Renovasi Rumah;K11;Baik;Layak
+CUST366;39;4670000;8600000;5;D3;Lajang;Lainnya;Kesehatan;K21;Baik;Tidak Layak
+CUST367;42;;1540000;8;;Menikah;Karyawan;Modal Usaha;K45;Baik;Layak
+CUST368;39;12260000;9510000;13;Tidak Sekolah;Cerai;PNS;Modal Usaha;K07;Buruk;Layak
+CUST369;39;9810000;5060000;11;S2;Menikah;PNS;Konsumsi;K64;Baik;Layak
+CUST370;59;10810000;4480000;19;Tidak Sekolah;Lajang;Lainnya;Renovasi Rumah;K64;Buruk;Layak
+CUST371;23;9170000;10900000;3;SMA;Cerai;Freelancer;Pendidikan;K02;Baik;Layak
+CUST372;32;3610000;16960000;11;SMA;Cerai;Karyawan;Pendidikan;K76;Buruk;Layak
+CUST373;54;5430000;14590000;9;S2;Lajang;Freelancer;Konsumsi;K42;Baik;Layak
+CUST374;50;8470000;2150000;6;S1;Menikah;Wirausaha;Konsumsi;K54;Baik;Layak
+CUST375;25;3330000;5050000;2;Tidak Sekolah;Menikah;Freelancer;Kesehatan;K75;Baik;Layak
+CUST376;22;9140000;14700000;13;D3;Cerai;PNS;Konsumsi;K16;Baik;Tidak Layak
+CUST377;56;;5090000;9;S2;Lajang;Karyawan;Konsumsi;K18;Baik;Layak
+CUST378;21;5880000;8880000;15;D3;Cerai;Freelancer;Pendidikan;K59;Baik;Layak
+CUST379;23;9130000;12750000;15;S2;Lajang;Karyawan;Kesehatan;K16;Baik;Layak
+CUST380;49;8330000;5160000;9;S1;Menikah;Karyawan;Konsumsi;K06;Baik;Layak
+CUST381;47;5920000;10530000;12;S1;Lajang;Wirausaha;Konsumsi;K57;Baik;Layak
+CUST382;52;10480000;3330000;5;S1;Menikah;;Kesehatan;K47;Baik;Tidak Layak
+CUST383;57;3760000;6990000;11;S1;Lajang;PNS;Renovasi Rumah;K48;Baik;Layak
+CUST384;33;8850000;11600000;8;;Cerai;Lainnya;Kesehatan;K42;Baik;Tidak Layak
+CUST385;30;8780000;2040000;12;SMA;Menikah;Karyawan;Pendidikan;K76;Baik;Layak
+CUST386;59;6070000;12200000;3;Tidak Sekolah;Cerai;;Renovasi Rumah;K60;Buruk;Layak
+CUST387;47;7980000;;10;D3;Cerai;PNS;Modal Usaha;K77;Baik;Layak
+CUST388;36;3250000;12760000;19;S2;Menikah;Karyawan;Kesehatan;K04;Baik;Layak
+CUST389;34;9770000;11120000;17;S2;Menikah;Karyawan;Pendidikan;K02;Buruk;Tidak Layak
+CUST390;36;6450000;16820000;10;SMA;Cerai;Lainnya;Renovasi Rumah;K59;Baik;Tidak Layak
+CUST391;45;5430000;10630000;3;S2;Cerai;Freelancer;Kesehatan;K27;Baik;Tidak Layak
+CUST392;43;10150000;7850000;17;SMA;Cerai;Wirausaha;Konsumsi;K27;Baik;Tidak Layak
+CUST393;54;4890000;10610000;0;Tidak Sekolah;Cerai;Freelancer;Kesehatan;K79;Baik;Tidak Layak
+CUST394;43;2770000;12720000;6;;Menikah;Lainnya;Modal Usaha;K72;Baik;Layak
+CUST395;40;2330000;10240000;5;Tidak Sekolah;Menikah;Wirausaha;Kesehatan;K07;Baik;Layak
+CUST396;26;8820000;10200000;14;S1;Cerai;Freelancer;Renovasi Rumah;K63;Baik;Layak
+CUST397;29;3160000;6490000;17;S1;Lajang;Wirausaha;Renovasi Rumah;K46;Buruk;Layak
+CUST398;18;;6690000;10;S1;Lajang;Karyawan;Kesehatan;K63;Baik;Tidak Layak
+CUST399;18;750000;2990000;19;Tidak Sekolah;Menikah;Freelancer;Renovasi Rumah;K12;Baik;Layak
+CUST400;51;34929789;63957347;14;S2;Cerai;Wirausaha;Konsumsi;K13;Baik;Layak
+CUST401;49;7630000;3780000;15;D3;Cerai;Wirausaha;Kesehatan;K43;Baik;Layak
+CUST402;42;6710000;6540000;6;S1;Menikah;Wirausaha;Konsumsi;K17;Baik;Layak
+CUST403;57;5370000;;9;S1;Lajang;Freelancer;Konsumsi;K63;Baik;Layak
+CUST404;18;;14470000;11;S1;Lajang;PNS;Pendidikan;K36;Buruk;Layak
+CUST405;33;6890000;8530000;13;D3;Lajang;Freelancer;Kesehatan;K08;Buruk;Layak
+CUST406;56;10310000;16240000;4;S1;Menikah;;Renovasi Rumah;K69;Baik;Layak
+CUST407;22;7340000;6630000;17;D3;Lajang;Freelancer;Konsumsi;K36;Baik;Layak
+CUST408;39;7450000;11390000;4;S1;Menikah;Wirausaha;Pendidikan;K28;Baik;Layak
+CUST409;46;5910000;5820000;2;Tidak Sekolah;Menikah;Karyawan;Kesehatan;K47;Baik;Layak
+CUST410;20;6830000;20730000;4;Tidak Sekolah;Cerai;Freelancer;Kesehatan;K76;Baik;Layak
+CUST411;29;;4060000;16;D3;Lajang;Freelancer;Modal Usaha;K30;Baik;Layak
+CUST412;43;1870000;11550000;18;Tidak Sekolah;Menikah;Wirausaha;Modal Usaha;K23;Baik;Layak
+CUST413;33;2960000;13170000;18;D3;Lajang;Karyawan;Konsumsi;K16;Baik;Layak
+CUST414;54;9230000;12070000;11;Tidak Sekolah;Lajang;Karyawan;Modal Usaha;K14;Buruk;Layak
+CUST415;39;7510000;9070000;8;Tidak Sekolah;Cerai;Lainnya;Konsumsi;K74;Baik;Layak
+CUST416;46;6450000;9350000;0;D3;Lajang;Freelancer;Renovasi Rumah;K71;Baik;Layak
+CUST417;31;7060000;10220000;17;S2;Cerai;Karyawan;Konsumsi;K52;Baik;Layak
+CUST418;45;8040000;9260000;3;Tidak Sekolah;Menikah;Karyawan;Modal Usaha;K37;Baik;Tidak Layak
+CUST419;22;5380000;14820000;9;S1;Lajang;;Renovasi Rumah;K29;Baik;Layak
+CUST420;47;4670000;21050000;6;;Menikah;PNS;Modal Usaha;K67;Baik;Tidak Layak
+CUST421;22;7590000;7210000;0;;Lajang;Karyawan;Konsumsi;K15;Baik;Layak
+CUST422;29;4060000;3150000;16;S2;Menikah;Lainnya;Pendidikan;K47;Baik;Layak
+CUST423;33;8220000;9560000;1;SMA;Lajang;Karyawan;Kesehatan;K46;Baik;Layak
+CUST424;43;1890000;22900000;10;SMA;Lajang;Wirausaha;Modal Usaha;K52;Baik;Layak
+CUST425;43;10090000;5980000;8;Tidak Sekolah;Lajang;Freelancer;Konsumsi;K19;Baik;Layak
+CUST426;38;8420000;18200000;6;Tidak Sekolah;Lajang;Lainnya;Renovasi Rumah;K77;Buruk;Layak
+CUST427;56;7770000;;16;S1;Lajang;Wirausaha;Modal Usaha;K21;Baik;Layak
+CUST428;53;9950000;7230000;16;;Lajang;Lainnya;Modal Usaha;K64;Baik;Layak
+CUST429;50;12000000;12840000;1;SMA;Lajang;Wirausaha;Kesehatan;K37;Baik;Layak
+CUST430;47;;18140000;5;Tidak Sekolah;Lajang;Freelancer;Konsumsi;K27;Baik;Layak
+CUST431;54;1480000;8100000;13;S2;Lajang;Freelancer;Pendidikan;K55;Baik;Layak
+CUST432;40;3160000;8980000;5;Tidak Sekolah;Menikah;PNS;Renovasi Rumah;K29;Baik;Layak
+CUST433;27;5130000;7090000;1;Tidak Sekolah;Cerai;Wirausaha;Konsumsi;K20;Baik;Tidak Layak
+CUST434;22;7080000;4930000;0;SMA;Lajang;PNS;Renovasi Rumah;K25;Buruk;Tidak Layak
+CUST435;53;8550000;6750000;9;SMA;Cerai;Wirausaha;Modal Usaha;K70;Baik;Tidak Layak
+CUST436;51;4820000;;4;Tidak Sekolah;Lajang;PNS;Kesehatan;K63;Baik;Layak
+CUST437;48;7560000;10170000;1;D3;Lajang;Freelancer;Kesehatan;K36;Baik;Tidak Layak
+CUST438;27;4730000;6150000;15;Tidak Sekolah;Menikah;Lainnya;Pendidikan;K02;Baik;Tidak Layak
+CUST439;36;5170000;11170000;1;Tidak Sekolah;Menikah;PNS;Kesehatan;K22;Baik;Layak
+CUST440;49;2780000;2220000;9;S1;Cerai;Wirausaha;Modal Usaha;K16;Baik;Layak
+CUST441;18;4230000;11650000;1;S1;Menikah;Wirausaha;Pendidikan;K18;Baik;Tidak Layak
+CUST442;22;2940000;14170000;15;S1;Menikah;Freelancer;Konsumsi;K69;Baik;Layak
+CUST443;21;4070000;30000;15;D3;Cerai;Wirausaha;Kesehatan;K54;Baik;Layak
+CUST444;33;10160000;11870000;18;D3;Menikah;Karyawan;Pendidikan;K30;Baik;Layak
+CUST445;41;4150000;16140000;6;Tidak Sekolah;Lajang;Lainnya;Modal Usaha;K45;Baik;Layak
+CUST446;33;14900000;;11;S1;Cerai;PNS;Renovasi Rumah;K19;Baik;Tidak Layak
+CUST447;19;8480000;18360000;14;D3;Cerai;Lainnya;Renovasi Rumah;K34;Buruk;Layak
+CUST448;45;7550000;12100000;7;SMA;Lajang;Freelancer;Modal Usaha;K13;Baik;Layak
+CUST449;49;4420000;6470000;5;Tidak Sekolah;Menikah;PNS;Modal Usaha;K43;Baik;Layak
+CUST450;44;9100000;9720000;9;;Cerai;PNS;Renovasi Rumah;K62;Baik;Layak
+CUST451;37;5270000;12790000;2;Tidak Sekolah;Cerai;Karyawan;Pendidikan;K22;Baik;Layak
+CUST452;41;7370000;10380000;18;S2;Lajang;Freelancer;Renovasi Rumah;K52;Baik;Layak
+CUST453;29;14680000;12690000;16;S1;Lajang;Wirausaha;Modal Usaha;K52;Buruk;Tidak Layak
+CUST454;52;6710000;5400000;6;S2;Menikah;Karyawan;Kesehatan;K36;Baik;Layak
+CUST455;50;10450000;10850000;19;S1;Cerai;;Konsumsi;K73;Baik;Layak
+CUST456;50;4890000;;3;SMA;Menikah;Lainnya;Kesehatan;K19;Baik;Layak
+CUST457;54;6900000;9440000;13;S2;Menikah;Lainnya;Kesehatan;K38;Baik;Layak
+CUST458;29;12310000;5480000;19;Tidak Sekolah;Lajang;Lainnya;Modal Usaha;K70;Baik;Tidak Layak
+CUST459;20;5120000;6320000;14;S1;Cerai;Karyawan;Renovasi Rumah;K79;Baik;Tidak Layak
+CUST460;18;12440000;16180000;7;Tidak Sekolah;Cerai;Wirausaha;Pendidikan;K57;Baik;Tidak Layak
+CUST461;50;9120000;15460000;14;D3;Cerai;PNS;Kesehatan;K20;Baik;Layak
+CUST462;57;5310000;13050000;19;S1;Lajang;Lainnya;Renovasi Rumah;K09;Baik;Layak
+CUST463;27;;4540000;13;S2;Lajang;Wirausaha;Pendidikan;K32;Baik;Layak
+CUST464;46;34929789;63957347;8;S1;Lajang;Freelancer;Kesehatan;K04;Baik;Layak
+CUST465;30;8870000;;7;Tidak Sekolah;Lajang;Lainnya;Pendidikan;K50;Baik;Tidak Layak
+CUST466;29;2290000;10710000;16;SMA;Lajang;PNS;Renovasi Rumah;K05;Baik;Tidak Layak
+CUST467;48;34929789;63957347;1;S1;Cerai;Freelancer;Konsumsi;K20;Baik;Tidak Layak
+CUST468;19;6260000;11970000;2;S2;Menikah;Freelancer;Renovasi Rumah;K75;Baik;Tidak Layak
+CUST469;52;6780000;10960000;7;D3;Cerai;;Modal Usaha;K37;Baik;Tidak Layak
+CUST470;40;8860000;8450000;11;SMA;Menikah;Lainnya;Pendidikan;K22;Baik;Layak
+CUST471;34;7530000;10670000;0;D3;Lajang;Karyawan;Konsumsi;K58;Baik;Layak
+CUST472;43;2990000;9240000;9;S1;Menikah;PNS;Pendidikan;K68;Baik;Layak
+CUST473;25;8140000;13540000;19;Tidak Sekolah;Cerai;PNS;Pendidikan;K44;Buruk;Layak
+CUST474;46;8830000;14780000;2;Tidak Sekolah;Cerai;PNS;Kesehatan;K34;Baik;Layak
+CUST475;43;8680000;6070000;5;S2;Menikah;Freelancer;Modal Usaha;K77;Baik;Layak
+CUST476;27;10240000;3340000;6;Tidak Sekolah;Lajang;Wirausaha;Pendidikan;K42;Baik;Tidak Layak
+CUST477;43;9500000;820000;19;SMA;Lajang;Karyawan;Renovasi Rumah;K09;Baik;Layak
+CUST478;51;8380000;12540000;17;Tidak Sekolah;Cerai;Lainnya;Renovasi Rumah;K07;Baik;Tidak Layak
+CUST479;58;6790000;4480000;10;S2;Menikah;Lainnya;Kesehatan;K68;Baik;Tidak Layak
+CUST480;24;2020000;-760000;18;S1;Lajang;Wirausaha;Modal Usaha;K19;Baik;Layak
+CUST481;21;8290000;11940000;4;S1;Lajang;PNS;Modal Usaha;K31;Baik;Layak
+CUST482;28;34929789;63957347;18;Tidak Sekolah;Cerai;Karyawan;Renovasi Rumah;K35;Baik;Layak
+CUST483;46;7810000;9970000;10;D3;Lajang;Lainnya;Konsumsi;K57;Baik;Tidak Layak
+CUST484;53;3170000;;11;S1;Menikah;Lainnya;Kesehatan;K61;Baik;Tidak Layak
+CUST485;42;3760000;10410000;9;Tidak Sekolah;Cerai;PNS;Kesehatan;K31;Baik;Tidak Layak
+CUST486;38;10160000;9510000;7;S2;Cerai;Wirausaha;Renovasi Rumah;K53;Buruk;Layak
+CUST487;53;6880000;14600000;8;Tidak Sekolah;Menikah;Karyawan;Renovasi Rumah;K32;Baik;Layak
+CUST488;27;9040000;8550000;3;S1;Cerai;Wirausaha;Konsumsi;K66;Baik;Layak
+CUST489;54;7080000;11340000;4;S2;Lajang;Wirausaha;Konsumsi;K59;Baik;Tidak Layak
+CUST490;26;7090000;11610000;7;Tidak Sekolah;Lajang;Karyawan;Modal Usaha;K10;Baik;Layak
+CUST491;41;9810000;6660000;8;SMA;Menikah;Karyawan;Kesehatan;K02;Baik;Layak
+CUST492;52;5450000;14960000;14;S2;Lajang;Lainnya;Kesehatan;K66;Baik;Layak
+CUST493;52;7290000;9130000;14;SMA;Menikah;Lainnya;Renovasi Rumah;K60;Baik;Layak
+CUST494;53;5610000;6220000;15;D3;Menikah;Karyawan;Modal Usaha;K17;Baik;Layak
+CUST495;35;5700000;12680000;13;S2;Lajang;Freelancer;Kesehatan;K16;Baik;Layak
+CUST496;56;6070000;5510000;7;SMA;Menikah;Lainnya;Modal Usaha;K16;Buruk;Layak
+CUST497;49;7670000;10140000;17;S1;Lajang;Freelancer;Modal Usaha;K46;Baik;Layak
+CUST498;41;5560000;9950000;9;S1;Cerai;Karyawan;Renovasi Rumah;K39;Baik;Tidak Layak
+CUST499;40;10770000;15430000;19;;Cerai;Lainnya;Modal Usaha;K31;Baik;Tidak Layak
+CUST500;49;34929789;63957347;5;S2;Menikah;Wirausaha;Konsumsi;K01;Baik;Layak
